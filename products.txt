@@ -1,0 +1,44 @@
+[
+  {
+    "product": "Lapiz",
+    "price": "234",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "id": 1
+  },
+  {
+    "product": "Escuadra",
+    "price": "12",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-64.png",
+    "id": 2
+  },
+  {
+    "product": "Calculadora",
+    "price": "345",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-64.png",
+    "id": 3
+  },
+  {
+    "product": "Temperas",
+    "price": "231",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/paint-color-pallete-brush-academy-64.png",
+    "id": 4
+  },
+  {
+    "product": "Globo terraqueo",
+    "price": "123",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-64.png",
+    "id": 5
+  },
+  {
+    "product": "Anotador",
+    "price": "45",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/paper-clip-academic-note-exam-64.png",
+    "id": 6
+  },
+  {
+    "product": "Lapiz HB",
+    "price": "12,45",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-64.png",
+    "id": 7
+  }
+]
